@@ -48,3 +48,5 @@ public/archives/
 .bak 
 .mtc
 build/
+*.xsim
+*.out.ps
