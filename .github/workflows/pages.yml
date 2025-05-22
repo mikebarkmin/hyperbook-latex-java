@@ -30,6 +30,7 @@ jobs:
 
       - name: Build
         run: |
+          sh predeploy.sh
           npx hyperbook build
 
       - name: Upload artifact
