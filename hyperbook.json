@@ -1,0 +1,11 @@
+{
+  "name": "hyperbook-latex-java",
+  "version": "0.0.0",
+  "description": "Example on how to use hyperook in conjunction with latex and java",
+  "license": "cc0",
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "language": "de"
+}
