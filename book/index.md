@@ -1,11 +1,11 @@
 ---
-name: Getting Started
+name: Hyperbook Latex Java
 ---
 
-## Getting Started
+## Hyperbook Latex Java
 
-This is created with :t[hyperbook].
 
-## Bookmarks
+::archive[Projekt Archiv]{name=fibonacci}
 
-::bookmarks
+::snippet{#java-beispiel name="Fibonacci.java" path="/archives/fibonacci/Fibonacci.java"}
+

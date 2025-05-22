@@ -1,0 +1,25 @@
+\documentclass[a4paper]{scrartcl}
+\usepackage[left=3cm,right=2cm]{geometry}
+\usepackage[
+  fach=Informatik,
+  lerngruppe={EF},
+  typ=ab,
+  farbig,
+  loesungen=seite,
+  module={
+    Kuerzel,
+    Symbole,
+    Texte,
+  },
+]{schule}
+
+\usepackage{listings}
+
+\title{Ein Arbeitsblatt}
+
+\begin{document}
+\section*{Text}
+
+\lstinputlisting[language=Java]{../archives/fibonacci/Fibonacci.java}
+
+\end{document}
