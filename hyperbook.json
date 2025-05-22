@@ -8,5 +8,9 @@
     "name": "Mike Barkmin",
     "url": "https://www.barkmin.eu"
   },
+  "repo": {
+    "url": "https://github.com/mikebarkmin/hyperbook-latex-java/edit/main/%path%",
+    "label": "Bearbeiten auf GitHub"
+  },
   "language": "de"
 }
