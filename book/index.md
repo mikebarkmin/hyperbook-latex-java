@@ -7,7 +7,7 @@ lang: de
 
 Hier in einem LateX-Dokument.
 
-::download[Arbeitsblatt]{name="/arbeitsblatt-01.pdf"}
+::download[Arbeitsblatt]{src="/arbeitsblatt-01.pdf"}
 
 Hier als eingebunden in einem Archiv.
 
