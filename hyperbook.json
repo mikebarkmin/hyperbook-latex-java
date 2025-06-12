@@ -1,5 +1,6 @@
 {
   "name": "hyperbook-latex-java",
+  "logo": "/logo.png",
   "version": "0.0.0",
   "basePath": "hyperbook-latex-java",
   "description": "Example on how to use hyperook in conjunction with latex and java",
